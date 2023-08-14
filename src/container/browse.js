@@ -1,7 +1,7 @@
 import { React, useContext, useEffect, useState } from "react";
 import Fuse from "fuse.js";
 import { SelectProfileContainer } from "./profiles";
-import {FooterContainer} from "./footer";
+import { FooterContainer } from "./footer";
 import { FirebaseContext } from "../context/firebase";
 import { Header, Loading, Card, Player } from "../components";
 import * as ROUTES from "../constants/route";
@@ -98,7 +98,7 @@ export default function BrowseContainer({ slides }) {
                                 <Player.Button />
                                 <Player.Video src="/videos/bunny.mp4" />
                             </Player>
-                        </Card.Feature>    
+                        </Card.Feature>
                     </Card>
                 ))}
             </Card.Group>
