@@ -36,7 +36,7 @@ This project leverages the power of these technologies:
 
 Follow these steps to set up and run the project on your local machine:
 
-1. Clone the repository: `git clone https://github.com/your-username/netflix-clone.git`
+1. Clone the repository: `git clone https://github.com/Debarghya001/Netflix_Clone_Firebase.git`
 2. Navigate to the project directory: `cd netflix-clone`
 3. Install dependencies: `npm install`
 
