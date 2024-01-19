@@ -50,6 +50,15 @@ To run the project locally:
 
 ## Screenshots
 
+![Screenshot 1](screenshots/ss1.png)
+*Homepage*
+
+![Screenshot 2](screenshots/ss2.png)
+*Login Page*
+
+![Screenshot 2](screenshots/ss3.png)
+
+![Screenshot 2](screenshots/ss4.png)
 
 
 ## Contributing
